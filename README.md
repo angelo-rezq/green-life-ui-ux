@@ -29,7 +29,7 @@ The flow was sketched on paper first — splash, onboarding, login, OTP, then ho
 
 ## Screens
 
-Individual screens are in [`/screens`](./screens): authentication, ordering, wallet, and statistics.
+Individual screens are in [`/screens`](./screens): splash and onboarding, sign-in, OTP verification, ordering, the coins wallet, sales statistics with partner organizations, and the account area.
 
 ## Author
 
