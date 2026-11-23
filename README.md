@@ -17,19 +17,24 @@ Green Life connects households with recycling collectors. You place an order for
 - **Home & orders** — place a recycling order by material type and quantity.
 - **Coins wallet** — your balance in Egyptian pounds, earned from recycled weight.
 - **Sales statistics** — a personal dashboard with product breakdowns, totals, and a full activity history table.
-- **Design process** — from hand-drawn wireframes to the final high-fidelity mockup.
+- **Design process** — from hand-drawn wireframes to high-fidelity screens.
 
 ## Design process
 
 The flow was sketched on paper first — splash, onboarding, login, OTP, then home — before moving to high-fidelity screens.
 
-| Hand-drawn wireframe | Final mockup |
-|---|---|
-| ![Hand-drawn wireframe](./wireframe-hand-drawn.jpg) | ![Final mockup](./mockup-final.jpg) |
+![Hand-drawn wireframe](./wireframe-hand-drawn.jpg)
 
 ## Screens
 
-Individual screens are in [`/screens`](./screens): splash and onboarding, sign-in, OTP verification, ordering, the coins wallet, sales statistics with partner organizations, and the account area.
+All fourteen screens, from sign-in to the coins wallet and sales statistics:
+
+| | | | |
+|---|---|---|---|
+| <img src="./screens/screen-01.jpg" width="200"> | <img src="./screens/screen-02.jpg" width="200"> | <img src="./screens/screen-03.jpg" width="200"> | <img src="./screens/screen-04.jpg" width="200"> |
+| <img src="./screens/screen-05.jpg" width="200"> | <img src="./screens/screen-06.jpg" width="200"> | <img src="./screens/screen-07.jpg" width="200"> | <img src="./screens/screen-08.jpg" width="200"> |
+| <img src="./screens/screen-09.jpg" width="200"> | <img src="./screens/screen-10.jpg" width="200"> | <img src="./screens/screen-11.jpg" width="200"> | <img src="./screens/screen-12.jpg" width="200"> |
+| <img src="./screens/screen-13.jpg" width="200"> | <img src="./screens/screen-14.jpg" width="200"> | | |
 
 ## Author
 
